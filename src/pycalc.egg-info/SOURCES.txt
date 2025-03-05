@@ -1,7 +1,6 @@
 LICENSE
 README.md
 pyproject.toml
-src/pycalc/conftest.py
 src/pycalc/constants.py
 src/pycalc/controller.py
 src/pycalc/model.py

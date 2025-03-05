@@ -1,5 +1,4 @@
 # model.py
-# test merge
 
 from pycalc.constants import *
 

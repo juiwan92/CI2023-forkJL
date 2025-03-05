@@ -5,3 +5,9 @@
 .idea/workspace.xml
 .idea/inspectionProfiles/profiles_settings.xml
 .idea/inspectionProfiles/Project_Default.xml
+pycalc.egg-info/dependency_links.txt
+pycalc.egg-info/entry_points.txt
+pycalc.egg-info/PKG-INFO
+pycalc.egg-info/requires.txt
+pycalc.egg-info/SOURCES.txt
+pycalc.egg-info/top_level.txt

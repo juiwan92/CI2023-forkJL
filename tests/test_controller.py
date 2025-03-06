@@ -7,4 +7,5 @@ def test_returnSignal(controller):
         QtCore.QEvent.KeyPress, QtCore.Qt.Key_Enter, QtCore.Qt.NoModifier
     )
     controller._view.display.keyPressEvent(event)
+    controller._calculateResult()
     assert controller._view.displayText() == "3"

@@ -57,7 +57,7 @@ class PyCalcCtrl():
             None
         """
 
-        result = self._evaluate(expression=self._view.displayText()+"1")
+        result = self._evaluate(expression=self._view.displayText())
         self._view.setDisplayText(result)
         
     def _buildExpression(self, sub_exp):
